@@ -15,6 +15,7 @@ class NewsTableViewCell: UITableViewCell {
     @IBOutlet var postAuthor:UILabel!
     @IBOutlet var authorImageView:UIImageView!
     
+
     override func awakeFromNib() {
         super.awakeFromNib()
         
